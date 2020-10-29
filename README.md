@@ -19,7 +19,7 @@
 - Por ahora nuestro modelo de negocio consistirá en cobrar por el aviso “solo una vez producida la venta”. Es necesario declarar la venta para poder calificar al usuario y acumular reputación. Si se detectaran ventas no declaradas el usuario será suspendido.
 - El hecho que cualquier búsqueda de “ofertas” esté ordenada por cercanía está orientado a: 
 
-  1. no tener que desarrollar un sistema de logística de entregas entre usuario vendedores y compradores que a veces terminan encareciendo el producto y
+  1. no tener que desarrollar un sistema de logística de entregas entre usuario vendedores y compradores que a veces terminan encareciendo el producto.
 
   2. favorecer las economías de cercanías, barrios, colegios, clubes, espacios afines, etc.
 
@@ -51,7 +51,7 @@
 
 - Ramiro Ninni: Soy profesor de música y licenciado en artes.
 - Emiliano Fernandez.
-- Julian Eloy Lopez Zarzoso: 1 año aprobado de ingenieria en sistemas, me gusta mucho la musica mi pasatiempos es ser Dj.
+- Julian López: 24 años tecnico de hardware.
 - Diego Valdés: me gusta la tecnologia y el diseño.
 
 
